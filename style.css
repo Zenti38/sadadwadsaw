@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+
+
+
+.p{
+    padding-bottom: 27px;
+    padding-top: 27px;
+    padding-right: 95px;
+    padding-left: 95px;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 0;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+.li{
+    width: 370px;
+    position: relative;
+}
+img{
+    display: block;
+}
